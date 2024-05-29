@@ -1,0 +1,20 @@
+##Aide - Jeu de Gladiateurs:
+Bienvenue dans le jeu de gladiateurs ! Dans ce jeu captivant, vous incarnez un combattant courageux, prêt à affronter ses adversaires dans l'arène. Voici un guide pour vous aider à maîtriser les mécanismes de ce jeu épique.
+
+## Aperçu du Jeu:
+Le jeu de gladiateurs est un jeu de combat au tour par tour où deux combattants s'affrontent jusqu'à ce que l'un d'eux soit vaincu. Que vous choisissiez de défier un ami en mode joueur contre joueur ou de tester vos compétences contre un adversaire contrôlé par l'ordinateur, l'action sera intense et palpitante !
+
+## Mécanique de Jeu
+
+### Combattants:
+- Chaque joueur contrôle un combattant, représenté par des vecteurs.
+- Les combattants possèdent des attributs tels que les points de vie (PV), la puissance d’attaque, la défense, etc.
+
+### Combat:
+- Les joueurs effectuent des actions telles que attaquer, défendre ou utiliser des capacités spéciales.
+- Les tours alternent entre les joueurs jusqu'à ce que les PV d'un combattant atteignent zéro.
+
+### Condition de Victoire:
+- Le jeu se termine lorsqu'un combattant vainc l'autre en réduisant ses PV à zéro.
+
+
